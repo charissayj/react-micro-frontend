@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Header = React.lazy(() => import("header/Header"));
-console.log(Header);
+
 function App() {
   return (
     <div>

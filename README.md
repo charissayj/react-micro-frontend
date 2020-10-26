@@ -11,7 +11,7 @@
 - `"sidebar: localhost:8080"`
 
 
-##### These apps (header and container) are hosted on netlify, because of this you will have to update the url in the webpack config for container/public/index.html to be `localhost:3001/remoteEntry.js`
+*** These apps (header and container) are hosted on netlify, because of this you will have to update the url in the webpack config for container/public/index.html to be `localhost:3001/remoteEntry.js` ***
 
 ### Deployed urls
 - `"container: https://happy-visvesvaraya-a027bd.netlify.app/"`
